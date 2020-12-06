@@ -1,0 +1,6 @@
+﻿  euleroperator.cpp
+  main.cpp
+  Note: including lib: glut32.lib
+  正在生成代码...
+C:\Users\GIVE-ME\Desktop\CAD\main.cpp(31,2): warning C4551:  缺少参数列表的函数调用
+  CAD.vcxproj -> C:\Users\GIVE-ME\Desktop\CAD\x64\Debug\CAD.exe
